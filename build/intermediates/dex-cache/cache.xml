@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/pta/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.1/support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="/home/pta/AndroidStudioProjects/SimpleCalc/app/build/intermediates/pre-dexed/debug/support-annotations-23.1.1_d76469d4fa8cb5ef9e0dfebfc95e593de7324b6c.jar" />
+    </item>
+    <item
+        jar="/home/pta/AndroidStudioProjects/SimpleCalc/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="/home/pta/AndroidStudioProjects/SimpleCalc/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.1.1_595e170f44360f468ddb8a3ab1be3895286b9cf1.jar" />
+    </item>
+    <item
+        jar="/home/pta/AndroidStudioProjects/SimpleCalc/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="/home/pta/AndroidStudioProjects/SimpleCalc/app/build/intermediates/pre-dexed/debug/com.android.support-design-23.1.1_796ea5c064bea88b594bf5f5a2d68404773cfa0c.jar" />
+    </item>
+    <item
+        jar="/home/pta/AndroidStudioProjects/SimpleCalc/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="/home/pta/AndroidStudioProjects/SimpleCalc/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.1.1_e6721f90e3463b3a933a4c0d4d6f91653eff250a.jar" />
+    </item>
+    <item
+        jar="/home/pta/AndroidStudioProjects/SimpleCalc/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="/home/pta/AndroidStudioProjects/SimpleCalc/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.1.1_35a9ca2eeee999f81ca00b1949381a579151e97b.jar" />
+    </item>
+    <item
+        jar="/home/pta/AndroidStudioProjects/SimpleCalc/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/libs/internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="/home/pta/AndroidStudioProjects/SimpleCalc/app/build/intermediates/pre-dexed/debug/internal_impl-23.1.1_a8fbb938beeb7f84226de127f0b96793865c80e1.jar" />
+    </item>
+
+</items>
